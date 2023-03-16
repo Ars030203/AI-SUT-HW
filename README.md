@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  CE417 Home works
+  CE417 Assignments
   <br>
 </h1>
 
